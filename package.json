@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cornelius": "^2.1.0",
+    "readline-promise": "^1.0.4"
+  }
+}
